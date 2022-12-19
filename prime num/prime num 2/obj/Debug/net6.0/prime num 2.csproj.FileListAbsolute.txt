@@ -1,0 +1,30 @@
+C:\Users\Dell XPS\Desktop\engineer\prime num 2\prime num 2\bin\Debug\net6.0\prime num 2.exe
+C:\Users\Dell XPS\Desktop\engineer\prime num 2\prime num 2\bin\Debug\net6.0\prime num 2.deps.json
+C:\Users\Dell XPS\Desktop\engineer\prime num 2\prime num 2\bin\Debug\net6.0\prime num 2.runtimeconfig.json
+C:\Users\Dell XPS\Desktop\engineer\prime num 2\prime num 2\bin\Debug\net6.0\prime num 2.dll
+C:\Users\Dell XPS\Desktop\engineer\prime num 2\prime num 2\bin\Debug\net6.0\prime num 2.pdb
+C:\Users\Dell XPS\Desktop\engineer\prime num 2\prime num 2\obj\Debug\net6.0\prime num 2.csproj.AssemblyReference.cache
+C:\Users\Dell XPS\Desktop\engineer\prime num 2\prime num 2\obj\Debug\net6.0\prime num 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell XPS\Desktop\engineer\prime num 2\prime num 2\obj\Debug\net6.0\prime num 2.AssemblyInfoInputs.cache
+C:\Users\Dell XPS\Desktop\engineer\prime num 2\prime num 2\obj\Debug\net6.0\prime num 2.AssemblyInfo.cs
+C:\Users\Dell XPS\Desktop\engineer\prime num 2\prime num 2\obj\Debug\net6.0\prime num 2.csproj.CoreCompileInputs.cache
+C:\Users\Dell XPS\Desktop\engineer\prime num 2\prime num 2\obj\Debug\net6.0\prime num 2.dll
+C:\Users\Dell XPS\Desktop\engineer\prime num 2\prime num 2\obj\Debug\net6.0\refint\prime num 2.dll
+C:\Users\Dell XPS\Desktop\engineer\prime num 2\prime num 2\obj\Debug\net6.0\prime num 2.pdb
+C:\Users\Dell XPS\Desktop\engineer\prime num 2\prime num 2\obj\Debug\net6.0\prime num 2.genruntimeconfig.cache
+C:\Users\Dell XPS\Desktop\engineer\prime num 2\prime num 2\obj\Debug\net6.0\ref\prime num 2.dll
+C:\Users\Dell XPS\Desktop\engineer\prime num\prime num 2\bin\Debug\net6.0\prime num 2.exe
+C:\Users\Dell XPS\Desktop\engineer\prime num\prime num 2\bin\Debug\net6.0\prime num 2.deps.json
+C:\Users\Dell XPS\Desktop\engineer\prime num\prime num 2\bin\Debug\net6.0\prime num 2.runtimeconfig.json
+C:\Users\Dell XPS\Desktop\engineer\prime num\prime num 2\bin\Debug\net6.0\prime num 2.dll
+C:\Users\Dell XPS\Desktop\engineer\prime num\prime num 2\bin\Debug\net6.0\prime num 2.pdb
+C:\Users\Dell XPS\Desktop\engineer\prime num\prime num 2\obj\Debug\net6.0\prime num 2.csproj.AssemblyReference.cache
+C:\Users\Dell XPS\Desktop\engineer\prime num\prime num 2\obj\Debug\net6.0\prime num 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell XPS\Desktop\engineer\prime num\prime num 2\obj\Debug\net6.0\prime num 2.AssemblyInfoInputs.cache
+C:\Users\Dell XPS\Desktop\engineer\prime num\prime num 2\obj\Debug\net6.0\prime num 2.AssemblyInfo.cs
+C:\Users\Dell XPS\Desktop\engineer\prime num\prime num 2\obj\Debug\net6.0\prime num 2.csproj.CoreCompileInputs.cache
+C:\Users\Dell XPS\Desktop\engineer\prime num\prime num 2\obj\Debug\net6.0\prime num 2.dll
+C:\Users\Dell XPS\Desktop\engineer\prime num\prime num 2\obj\Debug\net6.0\refint\prime num 2.dll
+C:\Users\Dell XPS\Desktop\engineer\prime num\prime num 2\obj\Debug\net6.0\prime num 2.pdb
+C:\Users\Dell XPS\Desktop\engineer\prime num\prime num 2\obj\Debug\net6.0\prime num 2.genruntimeconfig.cache
+C:\Users\Dell XPS\Desktop\engineer\prime num\prime num 2\obj\Debug\net6.0\ref\prime num 2.dll
